@@ -1,0 +1,19 @@
+
+
+
+public static int singleNumber(int[] A) {
+        Hashtable<Integer, Boolean> h = new Hashtable<Integer, Boolean> ();
+        for (int i = 0; i < A.length; i++) {
+            if (!h.contains(A[i])) {
+                h.put(A[i], true);
+            }
+            else {
+                h.put(A[i], false);
+            }
+        }
+        for (Integer e : h.keySet()) {
+            if (h.get(e)) {
+                return e;
+            }
+        }
+        return -1;

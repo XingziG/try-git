@@ -1,0 +1,13 @@
+import java.util.*;
+
+
+public class question1 {
+
+	public static void main(String[] args) {
+		HashMap<String, Integer> hm = new HashMap<String, Integer>();
+        String FileName = args[0];
+        
+		
+	}
+
+}

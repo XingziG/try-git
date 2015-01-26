@@ -1,0 +1,15 @@
+import java.util.*;
+
+
+public class question1 {
+
+	public static void main(String[] args) {
+		HashMap<String, Integer> hm = new HashMap<String, Integer>();
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter the name of a file and press Enter to start WordCount: ");
+        String FileName = keyboard.nextLine();
+        
+		
+	}
+
+}

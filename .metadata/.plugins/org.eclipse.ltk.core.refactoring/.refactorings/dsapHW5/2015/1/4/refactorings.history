@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;benhur.txt&apos; to &apos;10601HW1&apos;&#x0A;- Original project: &apos;dsapHW5&apos;&#x0A;- Destination element: &apos;10601HW1&apos;&#x0A;- Original element: &apos;benhur.txt&apos;" description="Copy file" destination="=10601HW1" element1="benhur.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1421641460076" units="0" version="1.0"/>
+</session>
