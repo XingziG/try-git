@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10601HW1/10601HW1.iml" filepath="$PROJECT_DIR$/10601HW1/10601HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleSpace/DoubleSpace.iml" filepath="$PROJECT_DIR$/DoubleSpace/DoubleSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Support13Demos/Support13Demos.iml" filepath="$PROJECT_DIR$/Support13Demos/Support13Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeProblem/codeProblem.iml" filepath="$PROJECT_DIR$/codeProblem/codeProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs/dfs.iml" filepath="$PROJECT_DIR$/dfs/dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW4/dsapHW4.iml" filepath="$PROJECT_DIR$/dsapHW4/dsapHW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW5/dsapHW5.iml" filepath="$PROJECT_DIR$/dsapHW5/dsapHW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW6/dsapHW6.iml" filepath="$PROJECT_DIR$/dsapHW6/dsapHW6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW_1/dsapHW_1.iml" filepath="$PROJECT_DIR$/dsapHW_1/dsapHW_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW_2/dsapHW_2.iml" filepath="$PROJECT_DIR$/dsapHW_2/dsapHW_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapHW_3/dsapHW_3.iml" filepath="$PROJECT_DIR$/dsapHW_3/dsapHW_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapLab2/dsapLab2.iml" filepath="$PROJECT_DIR$/dsapLab2/dsapLab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapLab6/dsapLab6.iml" filepath="$PROJECT_DIR$/dsapLab6/dsapLab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsapLecture9Comparable/dsapLecture9Comparable.iml" filepath="$PROJECT_DIR$/dsapLecture9Comparable/dsapLecture9Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaphw3_check_94/dsaphw3_check_94.iml" filepath="$PROJECT_DIR$/dsaphw3_check_94/dsaphw3_check_94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaplab1/dsaplab1.iml" filepath="$PROJECT_DIR$/dsaplab1/dsaplab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaplab3/dsaplab3.iml" filepath="$PROJECT_DIR$/dsaplab3/dsaplab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaplab4/dsaplab4.iml" filepath="$PROJECT_DIR$/dsaplab4/dsaplab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaplab5/dsaplab5.iml" filepath="$PROJECT_DIR$/dsaplab5/dsaplab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaplab7/dsaplab7.iml" filepath="$PROJECT_DIR$/dsaplab7/dsaplab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHW/javaHW.iml" filepath="$PROJECT_DIR$/javaHW/javaHW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHW8/javaHW8.iml" filepath="$PROJECT_DIR$/javaHW8/javaHW8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHW9/javaHW9.iml" filepath="$PROJECT_DIR$/javaHW9/javaHW9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHW_6_3/javaHW_6_3.iml" filepath="$PROJECT_DIR$/javaHW_6_3/javaHW_6_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xingzig_JAVAHW_7/xingzig_JAVAHW_7.iml" filepath="$PROJECT_DIR$/xingzig_JAVAHW_7/xingzig_JAVAHW_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xingzig_JAVAHW_7_2/xingzig_JAVAHW_7_2.iml" filepath="$PROJECT_DIR$/xingzig_JAVAHW_7_2/xingzig_JAVAHW_7_2.iml" />
+    </modules>
+  </component>
+</project>

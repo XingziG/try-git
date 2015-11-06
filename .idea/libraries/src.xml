@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaHW/src/xingzig_homework_6_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/xingzig_homework_6_3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/homework4_2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/homework 4-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/xingzi_homework_5_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/homework4_3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/javaHW/src/Fraction.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;timestamp&apos; in &apos;codeProblem.TokenBucket&apos; to &apos;lastTimestamp&apos;&#x0A;- Original project: &apos;codeProblem&apos;&#x0A;- Original element: &apos;codeProblem.TokenBucket.timestamp&apos;&#x0A;- Renamed element: &apos;codeProblem.TokenBucket.lastTimestamp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;timestamp&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;codeProblem{TokenBucket.java[TokenBucket^timestamp" name="lastTimestamp" references="true" setter="false" stamp="1444276864205" textual="false" version="1.0"/>
+</session>

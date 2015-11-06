@@ -13,8 +13,9 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="matches" key="selection"/>
+		<item value="throw" key="selection"/>
 		<list key="findhistory">
+			<item value="throw"/>
 			<item value="matches"/>
 			<item value="clone"/>
 			<item value="fill"/>
@@ -22,7 +23,6 @@
 			<item value="A"/>
 			<item value="comparator"/>
 			<item value="iter"/>
-			<item value="dot"/>
 		</list>
 		<list key="replacehistory">
 			<item value="NodeList"/>

@@ -1,0 +1,32 @@
+package codeProblem;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class CommonNumbers {
+	public static ArrayList<Integer> findCommon(int[] a, int[] b) {
+		ArrayList<Integer> result = new ArrayList<>();
+		int i = 0;
+		int j = 0;
+		while(i < a.length && j < b.length) {
+			if(a[i] == b[j]) {
+				result.add(a[i]);
+				i++;
+				j++;
+			}
+			if (a[i] > b[j]) {
+				j++;
+			} else {
+				i++;
+			}
+		}
+		return result;
+	}
+	
+	public static void main(String[] args) {
+		int[] a = new int[]{1,2,3,3,4,5,6};
+		int[] b = new int[]{3,3,5,6,7,8,9};
+		System.out.println(findCommon(a, b));
+		
+	}
+}

@@ -1,0 +1,51 @@
+package codeProblem;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class MergeKArray {
+	private static Integer[] mergeKVector(ArrayList<Integer[]> lists) {
+	    Integer[] result = null;
+	    if(lists.isEmpty()) {
+	    	return result;
+	    }
+	    return helper(lists, 0, lists.size() - 1);
+	    
+	}
+	
+	private static Integer[] helper(ArrayList<Integer[]> lists, int low, int high) {
+	    if(low >= high) return lists.get(low);
+	    int mid = low + (high - low) / 2;
+	    Integer[] left = helper(lists, low, mid);
+	    Integer[] right = helper(lists, mid + 1, high);
+	    return mergeTwoVector(left, right);
+	}
+
+	private static Integer[] mergeTwoVector(Integer[] a, Integer[] b) {
+		Integer[] result = new Integer[a.length + b.length];
+	    int i = 0, j = 0;
+	    for(int k = 0; k < result.length; ++k) {
+	        if(i < a.length && j < b.length) {
+	            if(a[i] < b[j]) result[k] = a[i++];
+	            else result[k] = b[j++];
+	        } else if(i < a.length) {
+	            result[k] = a[i++];
+	        } else if(j < b.length) {
+	            result[k] = b[j++];
+	        }
+	    }
+	    return result;
+	}
+
+	public void main(String[] args) {
+	    Integer[] v1 = {3, 5, 6, 8, 22, 33, 44, 55};
+	    Integer[] v2 = {1, 4, 7, 9, 11, 13, 14 ,15, 18, 35, 61};
+	    Integer[] v3 = {1, 2, 10};
+	    Integer[] v4 = {20, 30, 40, 50, 60, 70, 80};
+	    ArrayList<Integer[]> lists = (ArrayList<Integer[]>) Arrays.asList(v1, v2, v3, v4);
+
+	    Integer[] result = mergeKVector(lists);
+	    
+	    System.out.println(Arrays.deepToString(result));
+	}
+}
